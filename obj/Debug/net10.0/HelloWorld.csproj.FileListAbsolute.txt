@@ -1,0 +1,14 @@
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/bin/Debug/net10.0/HelloWorld
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/Users/kevinreyes/Developer/code playground /C#/first_project/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
